@@ -6,6 +6,8 @@ https://openfontlicense.org
 
 # Personal note: Using this font for the canvas design project header text.
 # Downloaded and verified on 2024-01-15.
+# Also using for section titles and callout boxes - looks great at large sizes.
+# Font weight works well at 48px+ for display purposes.
 
 -----------------------------------------------------------
 SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007
@@ -62,5 +64,4 @@ included either as stand-alone text files, human-readable headers or
 in the appropriate machine-readable metadata fields within text or
 binary files as long as those fields can be easily viewed by the user.
 
-3) No Modified Version of the Font Software may use the Reserved Font
-Name(s) unless explicit written permission is granted 
+3) No M
