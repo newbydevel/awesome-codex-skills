@@ -68,6 +68,9 @@ Apply OpenAI's brand identity and style resources with this skill.
 - No font installation required - works with existing system fonts
 - For best results, pre-install Inter and IBM Plex Mono fonts in your environment
 
+> **Personal note**: On macOS, you can install both Inter and IBM Plex Mono quickly via
+> `brew install --cask font-inter font-ibm-plex-mono`. Makes the output look much sharper.
+
 ### Color Application
 
 - Uses RGB color values for precise brand matching
